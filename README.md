@@ -1,7 +1,7 @@
 # Arduino-Serial-Communication-Example-Sketch-for-NodeRed
 
 # Node-Red Arduino-PC sample sketch
-  ~Written by Eric Fillion<br/>
+  ~Written by MakerKath<br/>
   ~Updated Nov 11, 2017
   
   This script allow basic interactions with Node-Red,<br/>
